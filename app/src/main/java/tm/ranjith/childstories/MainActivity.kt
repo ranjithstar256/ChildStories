@@ -11,7 +11,7 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
        // val apiKey = BuildConfig.YOUTUBE_API_KEY
         setContent {
-            App(apiKey = "you key here")
+            App(apiKey = "AIzaSyA5HkX6HukoaVrCzpxHCD6OA_60dhclbUY")
         }
     }
 }
